@@ -44,7 +44,7 @@ sudo pacman -S wine aria2 winetricks
 
 there are two installation scripts
 
-* `PhotoshopSetup.sh`
+* `PhotoshopSetup.sh`.
 * `PhotoshopSetupCustom.sh` (Recommended)
 
 the installer scripts use a virtual drive of wine and makes a new `winprefix` for photoshop
